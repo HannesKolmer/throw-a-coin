@@ -1,0 +1,29 @@
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\obj\Debug\net10.0\Münzwurf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\obj\Debug\net10.0\Münzwurf.AssemblyInfoInputs.cache
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\obj\Debug\net10.0\Münzwurf.AssemblyInfo.cs
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\obj\Debug\net10.0\Münzwurf.csproj.CoreCompileInputs.cache
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\bin\Debug\net10.0\Münzwurf.exe
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\bin\Debug\net10.0\Münzwurf.deps.json
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\bin\Debug\net10.0\Münzwurf.runtimeconfig.json
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\bin\Debug\net10.0\Münzwurf.dll
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\bin\Debug\net10.0\Münzwurf.pdb
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\obj\Debug\net10.0\Münzwurf.dll
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\obj\Debug\net10.0\refint\Münzwurf.dll
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\obj\Debug\net10.0\Münzwurf.pdb
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\obj\Debug\net10.0\Münzwurf.genruntimeconfig.cache
+C:\Users\tuprak\Documents\Münzwurf\Münzwurf\Münzwurf\obj\Debug\net10.0\ref\Münzwurf.dll
+C:\Users\tuprak\Documents\Neuer Ordner (2)\bin\Debug\net10.0\Münzwurf.exe
+C:\Users\tuprak\Documents\Neuer Ordner (2)\bin\Debug\net10.0\Münzwurf.deps.json
+C:\Users\tuprak\Documents\Neuer Ordner (2)\bin\Debug\net10.0\Münzwurf.runtimeconfig.json
+C:\Users\tuprak\Documents\Neuer Ordner (2)\bin\Debug\net10.0\Münzwurf.dll
+C:\Users\tuprak\Documents\Neuer Ordner (2)\bin\Debug\net10.0\Münzwurf.pdb
+C:\Users\tuprak\Documents\Neuer Ordner (2)\obj\Debug\net10.0\Münzwurf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuprak\Documents\Neuer Ordner (2)\obj\Debug\net10.0\Münzwurf.AssemblyInfoInputs.cache
+C:\Users\tuprak\Documents\Neuer Ordner (2)\obj\Debug\net10.0\Münzwurf.AssemblyInfo.cs
+C:\Users\tuprak\Documents\Neuer Ordner (2)\obj\Debug\net10.0\Münzwurf.csproj.CoreCompileInputs.cache
+C:\Users\tuprak\Documents\Neuer Ordner (2)\obj\Debug\net10.0\Münzwurf.sourcelink.json
+C:\Users\tuprak\Documents\Neuer Ordner (2)\obj\Debug\net10.0\Münzwurf.dll
+C:\Users\tuprak\Documents\Neuer Ordner (2)\obj\Debug\net10.0\refint\Münzwurf.dll
+C:\Users\tuprak\Documents\Neuer Ordner (2)\obj\Debug\net10.0\Münzwurf.pdb
+C:\Users\tuprak\Documents\Neuer Ordner (2)\obj\Debug\net10.0\Münzwurf.genruntimeconfig.cache
+C:\Users\tuprak\Documents\Neuer Ordner (2)\obj\Debug\net10.0\ref\Münzwurf.dll
