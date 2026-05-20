@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11806.211 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Münzwurf", "Münzwurf.csproj", "{9F9EEDD2-AD93-4FC1-9862-2E9C1F78959F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9EEDD2-AD93-4FC1-9862-2E9C1F78959F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9EEDD2-AD93-4FC1-9862-2E9C1F78959F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9EEDD2-AD93-4FC1-9862-2E9C1F78959F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9EEDD2-AD93-4FC1-9862-2E9C1F78959F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48C12CA-9A3D-409D-817E-8F6B87801B76}
+	EndGlobalSection
+EndGlobal
